@@ -1,0 +1,23 @@
+header {
+    width: 100%;
+    margin: 0 auto;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: honeydew;
+
+}
+
+img {
+    width: 10%;
+
+}
+
+header h1 {
+    margin-left: 5%;
+    color: rgb(40, 118, 170);
+    text-decoration: underline;
+    font-size: 65px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
