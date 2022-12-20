@@ -1,9 +1,12 @@
 import './App.css';
+import MemeGenerator from './MemeGenerator';
+import Header from "./Header";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello world!</h1>
+      <Header />
+      <MemeGenerator />
     </div>
   );
 }
